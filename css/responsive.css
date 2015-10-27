@@ -1,0 +1,647 @@
+/* Medias Query Home Persianas 2015 */
+
+/*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+
+    /* Ipad*/
+    @media only screen and (max-width :1024px) {
+        
+        .background-banner--figura{
+            margin-top:410px;
+            margin-right:440px;
+            background:url(../images/banners/banner-figura.png);
+            background-size:cover;
+            padding:130px 110px 120px 110px;
+        }
+
+        span.banner-titulo{
+        padding-left:18%;
+        }
+
+        .tp-bullets{
+            position: absolute;
+            padding-left:120px;
+            margin-top:-21px;
+
+        }
+
+        .owl-theme .owl-controls .owl-buttons .owl-prev{
+          left:-38px;
+          top: 53%; 
+        }
+         
+        .owl-theme .owl-controls .owl-buttons .owl-next{
+          left:1px;
+          top: 53%; 
+        }
+
+        .owl-theme2 .owl-controls .owl-buttons div {
+          position: absolute;
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-prev{
+          left:578px;
+          top: 56%; 
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-next{
+          left:617px;
+          top: 56%; 
+        }
+
+        .content-slider-product{
+            margin-top:-472px;
+    
+        }
+
+        .btn-caracteristicas-productos a{
+            margin-left:-100px;
+            margin-top:-350px;
+        }
+
+        .btn-caracteristicas-productos2 a{
+            margin-left:520px;
+            margin-top:-330px;
+        }
+
+
+        .btn-cotizar a{
+            margin-left:-67px;
+            margin-top:-250px;
+        }
+
+        .btn-cotizar2 a{
+            margin-left:555px;
+            margin-top:-220px;
+        }
+
+    }
+
+
+    /* Medium Devices, Desktops */
+    
+    @media (min-width: 992px){
+        #sectionProducts .tituloP:before, #sectionProducts .tituloP:after {
+            width: 34%;
+        }
+
+        #sectionProducts .tituloP h3 {
+            width: 32%;
+        }
+
+    
+    }
+
+
+    @media screen and (max-width: 992px) {
+
+            figcaption {
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+            filter: alpha(opacity=0);
+            opacity: 0;
+            position: absolute;
+            height: 35px;
+            margin-left:2.90%;
+            width:100%;
+            top:250px;
+            background:rgba(76,33,61,0.6);
+            color: #fff;
+            -webkit-transition: all .3s ease;
+            -moz-transition: all .3s ease;
+            -o-transition: all .3s ease;
+            -ms-transition: all .3s ease;
+            transition: all .3s ease;
+            -webkit-transition-delay: .2s;
+            -moz-transition-delay: .2s;
+            -o-transition-delay: .2s;
+            -ms-transition-delay: .2s;
+            transition-delay: .2s;
+        }
+
+        .owl-theme .owl-controls .owl-buttons .owl-prev{
+          left:-38px;
+          top: 53%; 
+        }
+         
+        .owl-theme .owl-controls .owl-buttons .owl-next{
+          left:1px;
+          top: 53%; 
+        }
+
+        .owl-theme2 .owl-controls .owl-buttons div {
+          position: absolute;
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-prev{
+          left:578px;
+          top: 56%; 
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-next{
+          left:617px;
+          top: 56%; 
+        }
+
+        .content-slider-product{
+            margin-top:-472px;
+    
+        }
+
+        .btn-caracteristicas-productos a{
+            margin-left:-100px;
+            margin-top:-350px;
+        }
+
+        .btn-caracteristicas-productos2 a{
+            margin-left:520px;
+            margin-top:-330px;
+        }
+
+
+        .btn-cotizar a{
+            margin-left:-67px;
+            margin-top:-250px;
+        }
+
+        .btn-cotizar2 a{
+            margin-left:555px;
+            margin-top:-220px;
+        }
+
+    }
+
+
+
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+
+        
+        figure {
+            margin: 0;
+            padding: 0;
+            height: auto;
+            width:100%;
+            position: relative;
+            display: block;
+            cursor: pointer;
+            overflow: hidden;
+        }
+
+        figcaption {
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+            filter: alpha(opacity=0);
+            opacity: 0;
+            position: absolute;
+            height: 35px;
+            margin-left:80%;
+            width:70%;
+            top:250px;
+            background:rgba(76,33,61,0.6);
+            color: #fff;
+            -webkit-transition: all .3s ease;
+            -moz-transition: all .3s ease;
+            -o-transition: all .3s ease;
+            -ms-transition: all .3s ease;
+            transition: all .3s ease;
+            -webkit-transition-delay: .2s;
+            -moz-transition-delay: .2s;
+            -o-transition-delay: .2s;
+            -ms-transition-delay: .2s;
+            transition-delay: .2s;
+        }
+
+          .background-banner--figura{
+            margin-top:410px;
+            margin-right:650px;
+            background:url(../images/banners/banner-figura.png);
+            background-size:cover;
+            padding:130px 110px 120px 110px;
+        }
+
+        span.banner-titulo{
+        padding-left:18%;
+        }
+
+        .tp-bullets{
+            position: absolute;
+            padding-left:250px;
+            margin-top:-43px;
+
+        }
+
+        .owl-theme .owl-controls .owl-buttons .owl-prev{
+          left:345px;
+          top: 56%; 
+        }
+         
+        .owl-theme .owl-controls .owl-buttons .owl-next{
+          left:385px;
+          top: 56%; 
+        }
+
+        .owl-theme2 .owl-controls .owl-buttons div {
+          position: absolute;
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-prev{
+          left:345px;
+          top: 56%; 
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-next{
+          left:385px;
+          top: 56%; 
+        }
+
+        .content-slider-product{
+            margin-top:-440px;
+            margin-left:1px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+        .content-slider-product2{
+            margin-top:-440px;
+            margin-left:2.5%;
+            margin-right:5px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+
+        .btn-caracteristicas-productos a{
+            margin-left:292px;
+            margin-top:-350px;
+        }
+
+        .btn-caracteristicas-productos2 a{
+            margin-left:292px;
+            margin-top:-340px;
+        }
+
+
+        .btn-cotizar a{
+            margin-left:326px;
+            margin-top:-250px;
+        }
+
+        .btn-cotizar2 a{
+            margin-left:326px;
+            margin-top:-230px;
+        }
+
+        
+
+    }
+
+
+    @media only screen and (max-width : 600px) {
+        
+        .background-banner--figura{
+            margin-top:390px;
+            margin-right:500px;
+            background:url(../images/banners/banner-figura.png);
+            background-size:cover;
+            padding:130px 110px 120px 110px;
+        }
+
+        span.banner-titulo{
+        padding-left:18%;
+        }
+
+        .tp-bullets{
+            position: absolute;
+            padding-left:165px;
+            margin-top:20px;
+
+        }
+
+        .owl-theme .owl-controls .owl-buttons .owl-prev{
+          left:260px;
+          top: 56%; 
+        }
+         
+        .owl-theme .owl-controls .owl-buttons .owl-next{
+          left:300px;
+          top: 56%; 
+        }
+
+        .owl-theme2 .owl-controls .owl-buttons div {
+          position: absolute;
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-prev{
+          left:270px;
+          top: 56%; 
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-next{
+          left:310px;
+          top: 56%; 
+        }
+
+        .content-slider-product{
+            margin-top:-440px;
+            margin-left:1px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+        .content-slider-product2{
+            margin-top:-440px;
+            margin-left:2.5%;
+            margin-right:5px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+
+        .btn-caracteristicas-productos a{
+            margin-left:200px;
+            margin-top:-350px;
+        }
+
+        .btn-caracteristicas-productos2 a{
+            margin-left:200px;
+            margin-top:-340px;
+        }
+
+
+        .btn-cotizar a{
+            margin-left:233px;
+            margin-top:-250px;
+        }
+
+        .btn-cotizar2 a{
+            margin-left:233px;
+            margin-top:-230px;
+        }
+
+    }
+
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        
+        .background-banner--figura{
+            margin-top:390px;
+            margin-right:500px;
+            background:url(../images/banners/banner-figura.png);
+            background-size:cover;
+            padding:130px 110px 120px 110px;
+        }
+
+        span.banner-titulo{
+        padding-left:18%;
+        }
+
+        .tp-bullets{
+            position: absolute;
+            padding-left:280px;
+            margin-top:-10px;
+
+        }
+
+         .owl-theme .owl-controls .owl-buttons .owl-prev{
+          left:200px;
+          top: 62%; 
+        }
+         
+        .owl-theme .owl-controls .owl-buttons .owl-next{
+          left:240px;
+          top: 62%; 
+        }
+
+        .owl-theme2 .owl-controls .owl-buttons div {
+          position: absolute;
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-prev{
+          left:200px;
+          top: 62%; 
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-next{
+          left:240px;
+          top: 62%; 
+        }
+
+        .content-slider-product{
+            margin-top:-440px;
+            margin-left:1px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+        .content-slider-product2{
+            margin-top:-440px;
+            margin-left:2.5%;
+            margin-right:5px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+            line-height:15px;
+        }
+
+        .btn-caracteristicas-productos a{
+            margin-left:140px;
+            margin-top:-270px;
+        }
+
+        .btn-caracteristicas-productos2 a{
+            margin-left:140px;
+            margin-top:-270px;
+        }
+
+
+        .btn-cotizar a{
+            margin-left:173px;
+            margin-top:-160px;
+        }
+
+        .btn-cotizar2 a{
+            margin-left:173px;
+            margin-top:-160px;
+        }
+
+
+    }
+    /* Iphone 6*/
+    @media only screen and (max-width : 414px) {
+        
+        .background-banner--figura{
+            margin-top:410px;
+            margin-right:440px;
+            background:url(../images/banners/banner-figura.png);
+            background-size:cover;
+            padding:130px 110px 120px 110px;
+        }
+
+        span.banner-titulo{
+        padding-left:18%;
+        }
+
+        .tp-bullets{
+            position: absolute;
+            padding-left:330px;
+            margin-top:-20px;
+
+        }
+
+         .owl-theme .owl-controls .owl-buttons .owl-prev{
+          left:155px;
+          top: 62%; 
+        }
+         
+        .owl-theme .owl-controls .owl-buttons .owl-next{
+          left:190px;
+          top: 62%; 
+        }
+
+        .owl-theme2 .owl-controls .owl-buttons div {
+          position: absolute;
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-prev{
+          left:160px;
+          top: 62%; 
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-next{
+          left:195px;
+          top: 62%; 
+        }
+
+        .content-slider-product{
+            margin-top:-440px;
+            margin-left:1px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+        .content-slider-product2{
+            margin-top:-440px;
+            margin-left:2.5%;
+            margin-right:5px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+
+        .btn-caracteristicas-productos a{
+            margin-left:95px;
+            margin-top:-270px;
+        }
+
+        .btn-caracteristicas-productos2 a{
+            margin-left:100px;
+            margin-top:-270px;
+        }
+
+
+        .btn-cotizar a{
+            margin-left:130px;
+            margin-top:-160px;
+        }
+
+        .btn-cotizar2 a{
+            margin-left:130px;
+            margin-top:-160px;
+        }
+
+
+    }
+
+    @media only screen and (max-width : 400px) {
+
+
+        .background-banner--figura{
+            margin-right:400px;
+            margin-top:430px;
+        }
+
+        .background-banner--figura{
+            background:url(../images/banners/banner-figura.png);
+            background-size:cover;
+            padding:130px 110px 120px 110px;
+        }
+
+        span.banner-titulo{
+        padding-left:18%;
+        }
+
+        .tp-bullets{
+            position: absolute;
+            padding-left:340px;
+            margin-top:-20px;
+
+        }
+
+        .tp-bullets.hidebullets{
+            margin-left:200px;
+        }
+
+        .owl-theme .owl-controls .owl-buttons .owl-prev{
+          left:155px;
+          top: 62%; 
+        }
+         
+        .owl-theme .owl-controls .owl-buttons .owl-next{
+          left:190px;
+          top: 62%; 
+        }
+
+        .owl-theme2 .owl-controls .owl-buttons div {
+          position: absolute;
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-prev{
+          left:160px;
+          top: 62%; 
+        }
+         
+        .owl-theme2 .owl-controls .owl-buttons .owl-next{
+          left:195px;
+          top: 62%; 
+        }
+
+        .content-slider-product{
+            margin-top:-440px;
+            margin-left:1px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+        .content-slider-product2{
+            margin-top:-440px;
+            margin-left:2.5%;
+            margin-right:5px;
+            background-color: rgba(255,255,255,.85);
+            padding: 30px 30px 15px;
+        }
+
+        .btn-caracteristicas-productos a{
+            margin-left:95px;
+            margin-top:-270px;
+        }
+
+        .btn-caracteristicas-productos2 a{
+            margin-left:100px;
+            margin-top:-270px;
+        }
+
+
+        .btn-cotizar a{
+            margin-left:130px;
+            margin-top:-160px;
+        }
+
+        .btn-cotizar2 a{
+            margin-left:130px;
+            margin-top:-160px;
+        }
+
+        
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }

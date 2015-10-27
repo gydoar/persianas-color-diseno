@@ -1,0 +1,23 @@
+a .ventajas:hover:after {
+    position: absolute !important;
+    float: right;
+    right: 40px !important;
+    left: initial !important;
+}
+
+.ventajas {
+    width: 256px;
+    height: 39px;
+    display: inline-block;
+    margin: 0 9px;
+    position: relative;
+}
+
+.images-product > ul {
+    padding: 0 !important;
+}
+
+.images-product ul li {
+    position: relative;
+}
+
