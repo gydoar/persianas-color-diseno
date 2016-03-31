@@ -72,6 +72,7 @@
             </div>
         </div>
     </div>
+    <!-- 
     <div class="map embed-responsive">   
         <div id="map" class="embed-responsive-item"></div>
         <script type="text/javascript">        
@@ -103,7 +104,9 @@
         <script async defer
           src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9Gj2X4wN7VS9Ro019yI10Oj_5lHyeRZA&callback=initMap">
         </script>          
-    </div>
+    </div> -->
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31809.280094692007!2d-74.0640496322925!3d4.74223967956677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNMKwNDQnMzIuMSJOIDc0wrAwMic0Ny41Ilc!5e0!3m2!1ses!2sco!4v1459458437024" width="100%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
     <div class="copyright">
         <div class="container">
             <p class="txt-copy-right"><span class="titulo-persianas">&copy; PERSIANAS COLOR Y DISEÑOS </span> <span class="titulo-suweb">HECHO CON <span class="glyphicon glyphicon-heart cora-copy" aria-hidden="true"></span> <a class="link-suweb" href="http://suwwweb.com/" target="_blank">suWWWEB S.A.S</a></span></p>
